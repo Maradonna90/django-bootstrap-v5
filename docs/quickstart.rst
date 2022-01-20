@@ -6,6 +6,8 @@ After :doc:`installation`, you can use ``django-bootstrap-v5`` in your templates
 
 Load the ``bootstrap5`` library and use the ``bootstrap_*`` tags:
 
+ATTENTION: You have to load the tag library in every template you want to use the ``bootstrap*`` tags!
+
 
 Example template
 ----------------
